@@ -1,8 +1,5 @@
 package id.sch.smktelkom_mlg.privateassignment.xirpl234.pribadi;
 
-/**
- * Created by Salsabila Putri Ray on 5/17/2017.
- */
 
 import android.content.ContentValues;
 import android.content.Context;
